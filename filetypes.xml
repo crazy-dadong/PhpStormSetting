@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="demo" type="PHP" />
       <mapping ext="py" type="PLAIN_TEXT" />
+      <mapping pattern=".html" type="Smarty" />
     </extensionMap>
   </component>
 </application>
