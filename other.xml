@@ -77,6 +77,22 @@
     </local-interpreter>
   </component>
   <component name="RecentTaskRepositories">
+    <GitHub shared="false" url="https://github.com">
+      <option name="assignedIssuesOnly" value="false" />
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <password />
+      <token>dfc8dfcfdf92df98df99df9ddf92dfcedfcfdfc9dfc8df93dfc9dfccdf9edf9cdf9cdfcbdf9fdf98df93df9bdfccdfcfdfc9df9edf9fdf9fdf9bdf9fdfcbdf92df9ddf9fdfccdfc8df9edfccdfcedf98</token>
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="repoAuthor" value="crazy-dadong" />
+      <option name="repoName" value="PHP-DataStructure-UnitTest" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <option name="user" value="" />
+      <username />
+    </GitHub>
     <Gitlab shared="false" url="http://192.168.1.101/root/test">
       <commitMessageFormat>{id} {summary}</commitMessageFormat>
       <option name="currentProject">
