@@ -1,11 +1,4 @@
 <scheme name="Material Theme - Lighter copy" version="142" parent_scheme="Default">
-  <metaInfo>
-    <property name="created">2016-07-26T10:51:57</property>
-    <property name="ide">PhpStorm</property>
-    <property name="ideVersion">2016.2.0.0</property>
-    <property name="modified">2016-07-26T10:57:39</property>
-    <property name="originalScheme">Material Theme - Lighter</property>
-  </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Fira Mono" />

@@ -2,11 +2,11 @@
   <option name="LINE_SPACING" value="1.2" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Fira Mono" />
-    <option name="EDITOR_FONT_SIZE" value="17" />
+    <option name="EDITOR_FONT_SIZE" value="19" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="NSimSun" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
+    <option name="EDITOR_FONT_SIZE" value="17" />
   </font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Fira Mono" />
