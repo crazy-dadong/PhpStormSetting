@@ -8,15 +8,6 @@
     <option name="EDITOR_FONT_NAME" value="NSimSun" />
     <option name="EDITOR_FONT_SIZE" value="17" />
   </font>
-  <console-font>
-    <option name="EDITOR_FONT_NAME" value="Fira Mono" />
-    <option name="EDITOR_FONT_SIZE" value="17" />
-  </console-font>
-  <console-font>
-    <option name="EDITOR_FONT_NAME" value="NSimSun" />
-    <option name="EDITOR_FONT_SIZE" value="17" />
-  </console-font>
-  <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="212c32" />
     <option name="ANNOTATIONS_COLOR" value="8b999f" />
