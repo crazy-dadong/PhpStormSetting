@@ -1,7 +1,7 @@
 <scheme name="Darcula copy" version="142" parent_scheme="Darcula">
   <option name="LINE_SPACING" value="1.0" />
   <font>
-    <option name="EDITOR_FONT_NAME" value="Consolas" />
+    <option name="EDITOR_FONT_NAME" value="Fira Mono" />
     <option name="EDITOR_FONT_SIZE" value="19" />
   </font>
   <font>
