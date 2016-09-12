@@ -10,11 +10,11 @@
   </font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Fira Mono" />
-    <option name="EDITOR_FONT_SIZE" value="17" />
+    <option name="EDITOR_FONT_SIZE" value="19" />
   </console-font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="NSimSun" />
-    <option name="EDITOR_FONT_SIZE" value="19" />
+    <option name="EDITOR_FONT_SIZE" value="17" />
   </console-font>
   <option name="EDITOR_QUICK_DOC_FONT_SIZE" value="MEDIUM" />
 </scheme>
