@@ -17,6 +17,17 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="html5shiv-printshiv" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.bootcss.com_html5shiv_3.7.3_html5shiv-printshiv.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.bootcss.com_html5shiv_3.7.3_html5shiv-printshiv.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="jquery-ui" type="javaScript">
       <properties>
         <option name="frameworkName" value="jQuery" />
@@ -58,10 +69,12 @@
       <properties>
         <sourceFilesUrls>
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_oss.maxcdn.com_respond_1.4.2_respond.min.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.bootcss.com_respond.js_1.4.2_respond.js" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_oss.maxcdn.com_respond_1.4.2_respond.min.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.bootcss.com_respond.js_1.4.2_respond.js" />
       </CLASSES>
       <SOURCES />
     </library>
