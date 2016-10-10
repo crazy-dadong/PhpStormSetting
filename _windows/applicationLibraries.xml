@@ -6,6 +6,19 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="bootstrap-editable" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.bootcss.com_x-editable_1.5.1_bootstrap-editable_js_bootstrap-editable.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdn.bootcss.com_x-editable_1.5.1_bootstrap-editable_js_bootstrap-editable.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.bootcss.com_x-editable_1.5.1_bootstrap-editable_js_bootstrap-editable.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdn.bootcss.com_x-editable_1.5.1_bootstrap-editable_js_bootstrap-editable.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="html5shiv" type="javaScript">
       <properties>
         <sourceFilesUrls>
