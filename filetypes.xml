@@ -2,12 +2,13 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="demo" type="PHP" />
-      <mapping pattern="post" type="PLAIN_TEXT" />
       <mapping pattern="vimrc" type="PLAIN_TEXT" />
       <mapping pattern="广州日报开关机文档" type="PLAIN_TEXT" />
+      <mapping pattern="post" type="PLAIN_TEXT" />
       <mapping pattern="中文" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
       <mapping pattern=".html" type="Smarty" />
+      <mapping pattern="mockjax.js" type="Twig" />
     </extensionMap>
   </component>
 </application>
