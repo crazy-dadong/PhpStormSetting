@@ -108,16 +108,5 @@
       </CLASSES>
       <SOURCES />
     </library>
-    <library name="select2" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_select2_4.0.3_js_select2.js" />
-        </sourceFilesUrls>
-      </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_select2_4.0.3_js_select2.js" />
-      </CLASSES>
-      <SOURCES />
-    </library>
   </component>
 </application>
