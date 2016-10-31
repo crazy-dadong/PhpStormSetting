@@ -16,4 +16,12 @@
     <option name="EDITOR_FONT_NAME" value="NSimSun" />
     <option name="EDITOR_FONT_SIZE" value="18" />
   </console-font>
+  <attributes>
+    <option name="TEXT">
+      <value>
+        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="ffffff" />
+      </value>
+    </option>
+  </attributes>
 </scheme>

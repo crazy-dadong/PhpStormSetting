@@ -6,15 +6,15 @@
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="NSimSun" />
-    <option name="EDITOR_FONT_SIZE" value="22" />
-  </font>
-  <console-font>
-    <option name="EDITOR_FONT_NAME" value="Consolas" />
     <option name="EDITOR_FONT_SIZE" value="19" />
-  </console-font>
-  <console-font>
-    <option name="EDITOR_FONT_NAME" value="NSimSun" />
-    <option name="EDITOR_FONT_SIZE" value="24" />
-  </console-font>
+  </font>
   <option name="EDITOR_QUICK_DOC_FONT_SIZE" value="MEDIUM" />
+  <attributes>
+    <option name="BOOKMARKS_ATTRIBUTES">
+      <value />
+    </option>
+    <option name="LOG_EXPIRED_ENTRY">
+      <value />
+    </option>
+  </attributes>
 </scheme>
