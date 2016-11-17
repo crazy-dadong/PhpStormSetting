@@ -4,6 +4,11 @@
       <MessDetectorConfiguration />
     </phpmd_settings>
   </component>
+  <component name="PhpCodeSniffer">
+    <phpcs_settings>
+      <PhpCSConfiguration />
+    </phpcs_settings>
+  </component>
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter home="vagrant://C:\Users\crazy\PhpstormProjects\xm_smp_pro_v2/usr/bin/php" id="bccf932d-f769-4af5-95a5-60d4484b93ea" name="Remote PHP 7" debugger_id="php.debugger.XDebug">
