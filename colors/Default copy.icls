@@ -6,16 +6,8 @@
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="NSimSun" />
-    <option name="EDITOR_FONT_SIZE" value="20" />
+    <option name="EDITOR_FONT_SIZE" value="18" />
   </font>
-  <console-font>
-    <option name="EDITOR_FONT_NAME" value="Consolas" />
-    <option name="EDITOR_FONT_SIZE" value="18" />
-  </console-font>
-  <console-font>
-    <option name="EDITOR_FONT_NAME" value="NSimSun" />
-    <option name="EDITOR_FONT_SIZE" value="18" />
-  </console-font>
   <attributes>
     <option name="TEXT">
       <value>
