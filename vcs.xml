@@ -22,4 +22,7 @@
     </option>
     <option name="cloneParentDir" value="D:\Projects" />
   </component>
+  <component name="VcsApplicationSettings">
+    <option name="PATCH_STORAGE_LOCATION" value="D:\Projects\DaHuaSMP" />
+  </component>
 </application>
