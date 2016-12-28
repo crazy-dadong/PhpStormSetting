@@ -11,14 +11,7 @@
   </component>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter home="vagrant://D:\Projects\DaHuaSMP/usr/bin/php" id="8fbc5b2b-0038-4c3a-a392-54bf933bc30b" name="Remote PHP 7" debugger_id="php.debugger.XDebug" debugger_extension="/usr/lib/php/20151012/xdebug.so">
-        <configuration_options>
-          <configuration_option name="xdebug.remote_enable" value="1" />
-          <configuration_option name="xdebug.remote_connect_back " value="1" />
-          <configuration_option name="xdebug.remote_autostart" value="1" />
-          <configuration_option name="xdebug.remote_port" value="9000" />
-          <configuration_option name="xdebug.remote_host" value="127.0.0.1" />
-        </configuration_options>
+      <interpreter home="vagrant://D:\Projects\DaHuaSMP/usr/bin/php" id="8fbc5b2b-0038-4c3a-a392-54bf933bc30b" name="Remote PHP 7" debugger_id="php.debugger.XDebug">
         <remote_data VAGRANT_FOLDER="D:\Projects\DaHuaSMP" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
       </interpreter>
       <interpreter home="C:\Program Files\PHP\php-7.0.14-nts-Win32-VC14-x64\php.exe" id="bafa6c3b-46d1-42b9-8a79-0e3e68850eae" name="PHP" debugger_id="php.debugger.XDebug" />
