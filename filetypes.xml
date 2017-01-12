@@ -9,6 +9,7 @@
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
       <mapping pattern="post" type="PLAIN_TEXT" />
       <mapping pattern="demoTest" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
       <mapping pattern=".html" type="Smarty" />
       <mapping pattern="mockjax.js" type="Twig" />
