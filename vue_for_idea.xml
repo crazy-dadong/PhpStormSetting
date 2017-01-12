@@ -1,0 +1,6 @@
+<application>
+  <component name="Vue">
+    <option name="vueExePath" value="C:\Users\crazy\AppData\Roaming\npm\vue.cmd" />
+    <option name="nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+  </component>
+</application>
