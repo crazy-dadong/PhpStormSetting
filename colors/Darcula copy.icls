@@ -1,15 +1,15 @@
 <scheme name="Darcula copy" version="142" parent_scheme="Darcula">
   <font>
     <option name="EDITOR_FONT_NAME" value="Consolas" />
-    <option name="EDITOR_FONT_SIZE" value="24" />
+    <option name="EDITOR_FONT_SIZE" value="22" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="NSimSun" />
-    <option name="EDITOR_FONT_SIZE" value="22" />
+    <option name="EDITOR_FONT_SIZE" value="24" />
   </font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Consolas" />
-    <option name="EDITOR_FONT_SIZE" value="18" />
+    <option name="EDITOR_FONT_SIZE" value="22" />
   </console-font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="NSimSun" />
