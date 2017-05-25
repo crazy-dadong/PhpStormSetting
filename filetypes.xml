@@ -9,6 +9,8 @@
       <mapping pattern="touch" type="PLAIN_TEXT" />
       <mapping pattern="Int.js" type="PLAIN_TEXT" />
       <mapping pattern="vimrc" type="PLAIN_TEXT" />
+      <mapping pattern="part-r-00001" type="PLAIN_TEXT" />
+      <mapping pattern="part-r-00000" type="PLAIN_TEXT" />
       <mapping pattern="oozie" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="部署文档" type="PLAIN_TEXT" />
