@@ -1,0 +1,5 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <ignored-resource url="uri:oozie:workflow:0.2" />
+  </component>
+</application>
