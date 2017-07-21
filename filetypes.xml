@@ -4,7 +4,6 @@
       <mapping pattern="demo" type="PHP" />
       <mapping pattern="hello" type="PHP" />
       <mapping pattern="广州日报开关机文档" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="2017-03-13" type="PLAIN_TEXT" />
       <mapping pattern="touch" type="PLAIN_TEXT" />
       <mapping pattern="Int.js" type="PLAIN_TEXT" />
