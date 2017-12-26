@@ -8,9 +8,9 @@
     </library>
     <library name="bootstrap-editable" type="javaScript">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdn.bootcss.com_x-editable_1.5.1_bootstrap-editable_js_bootstrap-editable.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_x-editable_1.5.0_bootstrap3-editable_js_bootstrap-editable.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.bootcss.com_x-editable_1.5.1_bootstrap-editable_js_bootstrap-editable.js" />
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdn.bootcss.com_x-editable_1.5.1_bootstrap-editable_js_bootstrap-editable.js" />
       </CLASSES>
       <SOURCES />
     </library>
@@ -81,8 +81,8 @@
     </library>
     <library name="respond" type="javaScript">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_oss.maxcdn.com_respond_1.4.2_respond.min.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.bootcss.com_respond.js_1.4.2_respond.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_oss.maxcdn.com_respond_1.4.2_respond.min.js" />
       </CLASSES>
       <SOURCES />
     </library>
