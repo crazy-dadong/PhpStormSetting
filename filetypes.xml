@@ -4,7 +4,6 @@
       <mapping pattern="demo" type="PHP" />
       <mapping pattern="hello" type="PHP" />
       <mapping pattern="广州日报开关机文档" type="PLAIN_TEXT" />
-      <mapping pattern="data" type="PLAIN_TEXT" />
       <mapping pattern="2017-03-13" type="PLAIN_TEXT" />
       <mapping pattern="touch" type="PLAIN_TEXT" />
       <mapping pattern="Int.js" type="PLAIN_TEXT" />
@@ -14,16 +13,18 @@
       <mapping pattern="part-r-00000" type="PLAIN_TEXT" />
       <mapping pattern="oozie" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
-      <mapping pattern="部署文档" type="PLAIN_TEXT" />
+      <mapping pattern="data" type="PLAIN_TEXT" />
       <mapping pattern="demoTest" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
       <mapping pattern="中文" type="PLAIN_TEXT" />
       <mapping pattern="post" type="PLAIN_TEXT" />
       <mapping pattern="123" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping ext="dxf" type="PLAIN_TEXT" />
+      <mapping pattern="部署文档" type="PLAIN_TEXT" />
       <mapping ext="memory" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
+      <mapping ext="dat" type="PLAIN_TEXT" />
+      <mapping ext="dxf" type="PLAIN_TEXT" />
       <mapping pattern=".html" type="Smarty" />
       <mapping pattern="mockjax.js" type="Twig" />
       <mapping pattern="*.xml.blade.php" type="XML" />
