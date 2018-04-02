@@ -11,7 +11,7 @@
   </component>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter home="C:\Program Files\PHP\php-7.0.14-nts-Win32-VC14-x64\php.exe" id="bafa6c3b-46d1-42b9-8a79-0e3e68850eae" name="PHP" debugger_id="php.debugger.XDebug">
+      <interpreter home="C:\Program Files\PHP\php-7.0.14-nts-Win32-VC14-x64\php.exe" id="bafa6c3b-46d1-42b9-8a79-0e3e68850eae" name="PHP" debugger_id="php.debugger.XDebug" debugger_extension="C:\Program Files\PHP\php_xdebug-2.6.0-7.0-vc14-nts-x86_64.dll">
         <configuration_options>
           <configuration_option name="xdebug.profiler_enable" value="" />
           <configuration_option name="xdebug.profiler_output_dir" value="/xdebug_profilers" />
