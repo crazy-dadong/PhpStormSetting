@@ -38,11 +38,6 @@
       <SOURCES />
     </library>
     <library name="init" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__smp.dahuasurvey.com:9988_arcgis_js_api_library_4.7_init.js" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_smp.dahuasurvey.com:9988_arcgis_js_api_library_3.17_3.17_init.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__smp.dahuasurvey.com:9988_arcgis_js_api_library_4.7_init.js" />
