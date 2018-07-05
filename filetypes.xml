@@ -21,9 +21,10 @@
       <mapping pattern="123" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="部署文档" type="PLAIN_TEXT" />
+      <mapping ext="header" type="PLAIN_TEXT" />
       <mapping ext="memory" type="PLAIN_TEXT" />
-      <mapping ext="py" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
+      <mapping ext="py" type="PLAIN_TEXT" />
       <mapping ext="dxf" type="PLAIN_TEXT" />
       <mapping pattern=".html" type="Smarty" />
       <mapping pattern="mockjax.js" type="Twig" />
