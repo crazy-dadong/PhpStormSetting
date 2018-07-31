@@ -20,6 +20,7 @@
       <mapping pattern="post" type="PLAIN_TEXT" />
       <mapping pattern="123" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="demolist" type="PLAIN_TEXT" />
       <mapping pattern="部署文档" type="PLAIN_TEXT" />
       <mapping ext="header" type="PLAIN_TEXT" />
       <mapping ext="memory" type="PLAIN_TEXT" />
