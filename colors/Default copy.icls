@@ -1,14 +1,16 @@
 <scheme name="Default copy" version="142" parent_scheme="Default">
-  <option name="EDITOR_FONT_SIZE" value="18" />
+  <option name="FONT_SCALE" value="1.0" />
+  <option name="LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_SIZE" value="22" />
+  <option name="EDITOR_FONT_NAME" value="Consolas" />
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Consolas" />
-    <option name="EDITOR_FONT_SIZE" value="18" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
   </console-font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="NSimSun" />
-    <option name="EDITOR_FONT_SIZE" value="18" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
   </console-font>
-  <option name="EDITOR_FONT_NAME" value="Consolas" />
   <attributes>
     <option name="TEXT">
       <value>
